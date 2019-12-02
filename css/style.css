@@ -1,0 +1,9 @@
+.row1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 20px;
+    width: 800px;
+    height: 100px;
+    outline: 2px solid #0c4fb4;
+}
